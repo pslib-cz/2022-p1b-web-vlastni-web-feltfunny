@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+.body{
+    text-align: center;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.header{
+    text-align: center;
+}
+.card{
+    text-align: start;
+}
+#G_H{
+    color:white;
+}
+#bimg{
+    width: 960px;}
+#A_H{
+    text-align: center;
+    align-items: center;
+   top:0;
+   background-image: url(../Img/A_4.png); 
+   width:100%;
+   max-width :960px; 
+   height:540px;
+   color: azure;
+}
+#G_H{
+    text-align: center;
+    align-items: center;
+   top:0;
+   background-image: url(../Img/G_H.jpg); 
+   width:100%;
+   max-width :960px; 
+   height:540px;
+   color: azure;
+}
+
