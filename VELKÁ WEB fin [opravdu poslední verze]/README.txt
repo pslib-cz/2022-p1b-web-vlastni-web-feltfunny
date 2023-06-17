@@ -1,0 +1,1 @@
+Pro jistotu odevzdávám i na teams
